@@ -18,7 +18,7 @@
 
 ## Screenshots
 
-![Being worked on](https://extronode.com)
+[Being worked on](https://extronode.com)
 
 ## Support
 
